@@ -1,6 +1,6 @@
 {
   "name": "@specialblend/cator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "cat a file or print provided value",
   "main": "cator",
   "scripts": {
