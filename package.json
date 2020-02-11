@@ -8,6 +8,9 @@
     "postinstall": "chmod +x cator"
   },
   "bin": "cator",
+  "files": [
+    "cator"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/specialblend/cator.git"
