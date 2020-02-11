@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+doc=$(cat $1 2> /dev/null)
+echo ${doc:-$2}

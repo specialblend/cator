@@ -1,0 +1,25 @@
+{
+  "name": "@specialblend/cator",
+  "version": "0.0.0",
+  "description": "cat a file or print provided value",
+  "main": "cator",
+  "scripts": {
+    "test": "true",
+    "postinstall": "chmod +x cator"
+  },
+  "bin": "cator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialblend/cator.git"
+  },
+  "keywords": [
+    "cat",
+    "cli"
+  ],
+  "author": "cj@specialblend.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specialblend/cator/issues"
+  },
+  "homepage": "https://github.com/specialblend/cator#readme"
+}
